@@ -1,6 +1,6 @@
 ### Amir Esfelurm
 
-- channel Telegram : `https://t.me/esfelurm`
+- channel Telegram : <a href="https://t.me/esfelurm">Amir Esfelurm</a>
 - programming 
 --------------------------
 <a href="https://ibb.co/LxCW9D3"><img src="https://i.ibb.co/R3CmQGq/Polish.jpg" alt="Polish" border="0"></a>
