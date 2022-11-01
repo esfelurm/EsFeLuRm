@@ -3,6 +3,6 @@
 - channel Telegram : <a href="https://t.me/esfelurm">EsfeLurM</a>
 - contact with me : esfelurm@yahoo.com
 --------------------------
-<a href="https://uupload.ir/" target="_blank"><img src="https://s6.uupload.ir/files/lll_u8pv.gif" border="0" alt="آپلود عکس" /></a>
+<img src="https://s6.uupload.ir/files/lll_u8pv.gif" border="0">
 - I will roar in silence 
 
