@@ -7,6 +7,6 @@
 - Ꮖ ᎳᏆᏞᏞ ᎡᎾᎪᎡ ᏆᏁ ᏚᏆᏞᎬᏁᏟᎬ
 
 
-- T€4m $PId€R C¥b€r
+- $.C
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
