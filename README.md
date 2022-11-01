@@ -7,5 +7,5 @@
 - I will roar in silence 
 
 - Team Spider Cyber 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandeepbro&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
