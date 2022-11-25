@@ -1,6 +1,6 @@
 ## EsfeLurM
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337FFE2&size=24&width=600&lines=Hello+I am esfelurm+Channel Telegram I : https://t.me/esfelurm)](https://t.me/esfelurm)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337FFE2&size=24&width=600&lines=Hello+I am esfelurm+Channel Telegram I : https://t.me/esfelurm)](https://t.me/esfelurm)]
 - channel Telegram : <a href="https://t.me/esfelurm">EsfeLurM</a>
 - contact with me : esfelurm@yahoo.com
 --------------------------
