@@ -1,3 +1,8 @@
+# Hide your information in photos and music 
+# Extracting your data from photos and music 
+# Coded By Esfelurm
+
+
 import os, marshal
 os.system("pip install pyfiglet")
 os.system("pip install stepic")
