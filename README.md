@@ -3,7 +3,7 @@
 - channel Telegram : <a href="https://t.me/esfelurm">EsfeLurM</a>
 - contact with me : esfelurm@yahoo.com
 --------------------------
-<img src="https://s2.uupload.ir/files/polish_۲۰۲۳۰۱۲۲_۲۳۱۰۵۵۸۵۲_uj6c_thumb.jpg"</a>
+<img src="https://s2.uupload.ir/files/polish_۲۰۲۳۰۱۲۲_۲۳۱۰۵۵۸۵۲_1w75.jpg" border="0"/>
 - Ꮖ ᎳᏆᏞᏞ ᎡᎾᎪᎡ ᏆᏁ ᏚᏆᏞᎬᏁᏟᎬ
 
 
